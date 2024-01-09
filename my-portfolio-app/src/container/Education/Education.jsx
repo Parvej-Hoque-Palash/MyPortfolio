@@ -19,18 +19,19 @@ const Education = () => {
             </li>
             <li>
               Completed BSc in Computer Science & Engineering from Jahangirnagar
-              University with CGPA 3.50 (Out of 4.00).
+              University with CGPA 3.55 (Out of 4.00).
             </li>
-            <li>
-              {/* Completed */}
+            {/* <li>
+              Completed
               MSc in Computer Science & Engineering from Jahangirnagar
               University
-               {/* with CGPA 3.50 (Out of 4.00) */}
+               with CGPA 3.50 (Out of 4.00)
                .
-            </li>
+            </li> */}
             <li>Completed a course of Frontend Development from BongoDev.</li>
             <li>Completed a MERN Stack Development Course.</li>
             <li>Completed a course on Photograpy.</li>
+            <li>Working on a project named "DDoS attack detection using Machine Learning"</li>
             <li>Interested to publish a paper on BlockChain.</li>
           </ul>
         </div>
