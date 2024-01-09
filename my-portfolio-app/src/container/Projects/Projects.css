@@ -19,6 +19,7 @@
   background-color: rgb(234, 234, 234);
   border-radius: 20px;
   flex: 1 0 50%;
+  color: #374859;
 }
 .project__details img {
   width: 100%;

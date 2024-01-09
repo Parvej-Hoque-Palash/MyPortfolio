@@ -22,8 +22,11 @@ const Education = () => {
               University with CGPA 3.50 (Out of 4.00).
             </li>
             <li>
-              Completed MSc in Computer Science & Engineering from Jahangirnagar
-              University with CGPA 3.50 (Out of 4.00).
+              {/* Completed */}
+              MSc in Computer Science & Engineering from Jahangirnagar
+              University
+               {/* with CGPA 3.50 (Out of 4.00) */}
+               .
             </li>
             <li>Completed a course of Frontend Development from BongoDev.</li>
             <li>Completed a MERN Stack Development Course.</li>

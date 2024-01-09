@@ -19,13 +19,22 @@
   gap: 20px;
   color: black;
 }
-.resume__card {
+.resume__card1 {
   padding: 10px 15px;
   text-align: center;
   color: black;
   background-color: rgb(234, 234, 234);
   border-radius: 15px;
   flex: 1 0 50%;
+}
+.resume__card2 {
+  padding: 10px 15px;
+  text-align: center;
+  color: black;
+  background-color: rgb(234, 234, 234);
+  border-radius: 15px;
+  flex: 1 0 50%;
+  margin-bottom: 100px;
 }
 .download__btn {
   display: flex;
